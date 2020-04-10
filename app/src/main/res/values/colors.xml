@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!-- adding custom colors-->
+    <color name="homeFragment">#fe5675</color>
+    <color name="favFragment">#f99d37</color>
+    <color name="profileFragment">#ffe240</color>
+    <color name="settingsFragment">#3dd3b0</color>
+
+</resources>
