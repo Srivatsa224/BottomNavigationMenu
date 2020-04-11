@@ -8,5 +8,10 @@
     <color name="favFragment">#f99d37</color>
     <color name="profileFragment">#ffe240</color>
     <color name="settingsFragment">#3dd3b0</color>
+    <color name="black">#000</color>
+
+    <color name="white">#fff</color>
+    <color name="gray">#2d2d2d</color>
+
 
 </resources>
