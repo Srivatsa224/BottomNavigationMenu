@@ -12,6 +12,6 @@
         android:gravity="center"
         android:textColor="#fafafa"
         android:layout_height="match_parent"
-        android:text="Home Fragment" />
+        android:text="New Home Fragment" />
 
 </FrameLayout>
